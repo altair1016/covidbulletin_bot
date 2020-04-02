@@ -27,7 +27,7 @@ python3.7 intepreter with following modules installed:
 
 ## Installation  
 
-1. Run a `git clone https://github.com/Datalux/COVID19-it-bot` command or download files from my repo.
+1. Run a `git clone https://github.com/altair1016/covidbulletin_bot` command or download files from my repo.
 2. Creare un file `config.json` con la seguente struttura:
 ```
 {
