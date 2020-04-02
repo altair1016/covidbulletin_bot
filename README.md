@@ -28,7 +28,7 @@ python3.7 intepreter with following modules installed:
 - pydub
 
 
-## Installation  
+# Installation  
 
 1. Run a `git clone https://github.com/altair1016/covidbulletin_bot` command or download files from my repo.
 2. Create a new file `setup.json` containing a json file with the following structure:
