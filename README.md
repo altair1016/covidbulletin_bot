@@ -10,6 +10,10 @@ Current instance is running on Google Cloud Platform account on a Virtual instan
 # Create a new instance, your Instance
 ## All you need is...
 
+1] Computer or server service where to host the python scripts.
+2] Create a Telegram bot and get the Token id of your new born bot.
+3] python3.7 intepreter with following modules installed: 
+
 - json
 - matplotlib
 - urllib
@@ -23,7 +27,7 @@ Current instance is running on Google Cloud Platform account on a Virtual instan
 
 ## Installation  
 
-1. Eseguire `git clone https://github.com/Datalux/COVID19-it-bot` o scaricare il .zip della repository
+1. Run a `git clone https://github.com/Datalux/COVID19-it-bot` command or download files from my repo.
 2. Creare un file `config.json` con la seguente struttura:
 ```
 {
