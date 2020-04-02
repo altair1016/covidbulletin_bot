@@ -10,9 +10,9 @@ Current instance is running on Google Cloud Platform account on a Virtual instan
 # Create a new instance, your Instance
 ## All you need is...
 
-1] Computer or server service where to host the python scripts. \n
-2] Create a Telegram bot and get the Token id of your new born bot.\n
-3] python3.7 intepreter with following modules installed: \n
+Computer or server service where to host the python scripts.
+Create a Telegram bot and get the Token id of your new born bot.
+python3.7 intepreter with following modules installed: 
 
 - json
 - matplotlib
