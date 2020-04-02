@@ -42,5 +42,5 @@ python3.7 intepreter with following modules installed:
 
 
 ![Test Image 1](map.png)
-![Test Image 1](global.png)
-![Test Image 1](trend.png)
+![Test Image 2](global.png)
+![Test Image 3](trend.png)
