@@ -28,11 +28,11 @@ python3.7 intepreter with following modules installed:
 ## Installation  
 
 1. Run a `git clone https://github.com/altair1016/covidbulletin_bot` command or download files from my repo.
-2. Creare un file `config.json` con la seguente struttura:
+2. Create a new file `setup.json` containing a json file with the following structure:
 ```
 {
-    "token": "110201543:AAHdqTcvCH1vGWJxfSeofSAs0K5PALDsaw",
-    "channel" : "@my_channel_name"
+    "tokenID": <BOT TOKEN>,
+    "secretID" : <Unique Key to be generated>
 }
 ```
-3. Lanciare `python3 run.py`
+3. Run python command `python3.7 flask_app.py`
