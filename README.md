@@ -16,6 +16,8 @@ Computer or server service where to host the python scripts.
 Create a Telegram bot and get the Token id of your new born bot.
 Install ffmpeg in linux. Install firefox and download the related GeckoDriver
 
+*Important: The only way I found to create a PNG file from a HTML Map, was to screenshot the browser page. To make this automatically you need to configure your server (without a phisical Display) and create a Virtual Display on it to make it possible. You can find this workaround solution in screenmap_nodisplay.py*
+
 python3.7 intepreter with following modules installed: 
 
 - json
