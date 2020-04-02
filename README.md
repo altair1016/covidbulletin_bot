@@ -12,6 +12,8 @@ Current instance is running on Google Cloud Platform account on a Virtual instan
 
 Computer or server service where to host the python scripts.
 Create a Telegram bot and get the Token id of your new born bot.
+Install ffmpeg in linux. Install firefox and download the related GeckoDriver
+
 python3.7 intepreter with following modules installed: 
 
 - json
@@ -25,6 +27,7 @@ python3.7 intepreter with following modules installed:
 - speech_recognition
 - pydub
 
+
 ## Installation  
 
 1. Run a `git clone https://github.com/altair1016/covidbulletin_bot` command or download files from my repo.
@@ -35,4 +38,4 @@ python3.7 intepreter with following modules installed:
     "secretID" : <Unique Key to be generated>
 }
 ```
-3. Run python command `python3.7 flask_app.py`
+3. Run python command `python3.7 flask_app.py` or `nohup python3.7 flask_app.py& ` to make it run in background and keep process running even after exiting the shell or terminal.
