@@ -4,7 +4,7 @@ Data source referenced is the following Official repo from Protezione Civile Ita
 
 If you want to see how the bot is working try to open the telegram bot: (https://t.me/covidbulletin_bot).
 
-***_Please, use my code, but also reference my repository. This will be appreciated as an offered and fresh beer! :P_***
+***_Please, use my code, but also reference my repository. This will be appreciated as an offered beer! :P_***
 
 
 # Current Instance
