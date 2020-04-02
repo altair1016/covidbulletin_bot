@@ -39,3 +39,8 @@ python3.7 intepreter with following modules installed:
 }
 ```
 3. Run python command `python3.7 flask_app.py` or `nohup python3.7 flask_app.py& ` to make it run in background and keep process running even after exiting the shell or terminal.
+
+
+![Test Image 1](map.png)
+![Test Image 1](global.png)
+![Test Image 1](trend.png)
