@@ -1,4 +1,5 @@
 # covidbulletin_bot
+
 Is Telegram bot project to get real-time informations about COVID propagation in Italy. 
 Data source referenced is the following Official repo from Protezione Civile Italiana https://github.com/pcm-dpc/COVID-19
 
